@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<skills>
-Theory testing,
-Git,
-Linux_Terminale,
-Postman,
-SQL,
-Fiddler,
-Jmeter,
-Charles,
-DevTool,
-Android_studio,
-ADB
-</skills>
+<root>
+    <skills>
+        <e1>Theory testing</e1>
+        <e1>Git</e1>
+        <e1>Linux_Terminale</e1>
+        <e1>Postman</e1>
+        <e1>SQL</e1>
+        <e1>Fiddler</e1>
+        <e1>Jmeter</e1>
+        <e1>Charles</e1>
+        <e1>DevTool</e1>
+        <e1>Android_studio</e1>
+        <e1>ADB</e1>
+    </skills>
+</root>
